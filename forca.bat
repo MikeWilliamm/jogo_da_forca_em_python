@@ -1,0 +1,2 @@
+python forca.py
+
